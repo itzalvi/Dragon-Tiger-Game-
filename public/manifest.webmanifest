@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "Dragon Tiger - Alvi Games",
+  "short_name": "Dragon Tiger",
+  "description": "Official Dragon Tiger game by Alvi Games with real-time betting, roadmaps, and instant EasyPaisa & JazzCash payments.",
+  "theme_color": "#071326",
+  "background_color": "#071326",
+  "display": "standalone",
+  "orientation": "landscape",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

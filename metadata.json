@@ -1,0 +1,6 @@
+{
+  "name": "3 Patti Pearl - Tiger Dragon",
+  "description": "Authentic 3 Patti Pearl Tiger Dragon casino game with real-time betting, Dragon vs Tiger roadmaps, fast transactions (EasyPaisa & JazzCash), interactive chip board, and prediction mod.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
